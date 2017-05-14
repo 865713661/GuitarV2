@@ -1,4 +1,4 @@
-package Entity;
+package Guitar.Entity;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

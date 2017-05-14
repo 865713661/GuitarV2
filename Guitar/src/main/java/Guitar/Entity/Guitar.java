@@ -1,4 +1,4 @@
-package Entity;
+package Guitar.Entity;
 
 public class Guitar {
 

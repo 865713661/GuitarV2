@@ -14,8 +14,8 @@ import org.apache.struts2.interceptor.SessionAware;
 
 import com.opensymphony.xwork2.ActionSupport;
 
-import Entity.Guitar;
-import Entity.InventoryImpl;
+import Guitar.Entity.Guitar;
+import Guitar.Entity.InventoryImpl;
 import Guitar.service.GuitarService;
 
 

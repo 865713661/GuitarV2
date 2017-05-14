@@ -2,8 +2,8 @@ package Guitar.service;
 
 import java.util.List;
 
-import Entity.Guitar;
-import Entity.Inventory;
+import Guitar.Entity.Guitar;
+import Guitar.Entity.Inventory;
 
 public class GuitarService {
 	private Inventory inventory;

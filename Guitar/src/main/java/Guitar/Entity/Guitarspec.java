@@ -1,4 +1,4 @@
-package Entity;
+package Guitar.Entity;
 
 public class Guitarspec {
 	private String model;
