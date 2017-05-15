@@ -4,7 +4,7 @@ public class Guitar {
 
 	private int id;
 	private int price;
-	private Guitarspec guitarspec;
+	private GuitarSpec guitarspec;
 	public int getId() {
 		return id;
 	}
@@ -17,10 +17,10 @@ public class Guitar {
 	public void setPrice(int price) {
 		this.price = price;
 	}
-	public Guitarspec getGuitarspec() {
+	public GuitarSpec getGuitarspec() {
 		return guitarspec;
 	}
-	public void setGuitarspec(Guitarspec guitarspec) {
+	public void setGuitarspec(GuitarSpec guitarspec) {
 		this.guitarspec = guitarspec;
 	}
 

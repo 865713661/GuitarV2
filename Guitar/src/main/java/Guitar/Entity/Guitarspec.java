@@ -1,6 +1,6 @@
 package Guitar.Entity;
 
-public class Guitarspec {
+public class GuitarSpec {
 	private String model;
 	private String type;
 	private String builder;
@@ -38,5 +38,23 @@ public class Guitarspec {
 	public void setTopwood(String topwood) {
 		this.topwood = topwood;
 	}
+	  public boolean matches(GuitarSpec otherSpec) {
 		
+		    if ((otherSpec.builder!=null)&&(!otherSpec.builder.equals(""))
+		    		&&(!builder .equals(otherSpec.builder)))
+		      return false;
+		    if ((otherSpec.model != null) &&(!otherSpec.model.equals(""))
+		        &&(!model.equals(otherSpec.model))){
+		      return false;}
+		    if ((otherSpec.type != null) && (!otherSpec.type.equals(""))
+			        &&(!otherSpec.type.equals(type))){
+			      return false;}
+		    if ((otherSpec.topwood!= null) &&(!otherSpec.topwood.equals(""))
+			        &&(!otherSpec.topwood.equals(topwood))){
+			      return false;}
+		  if ((otherSpec.backwood != null)&&(!otherSpec.backwood.equals(""))
+			        &&(!otherSpec.backwood.equals(backwood))){
+			      return false;}
+		    return true;
+		  }
 	}

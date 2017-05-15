@@ -25,19 +25,19 @@
 						<div class="control-group">
 							 <label class="control-label" >品牌</label>
 							<div class="controls">
-								<input name="guitar.guitarspec.type" type="text" />
+								<input name="guitarspec.type" type="text" />
 							</div>
 						</div>
 						<div class="control-group">
 							 <label class="control-label" for="inputPassword">生产商</label>
 							<div class="controls">
-								<input name="guitar.guitarspec.builder" type="text" />
+								<input name="guitarspec.builder" type="text" />
 							</div>
 						</div>
 						<div class="control-group">
 							 <label class="control-label" for="inputPassword">类型</label>
 							<div class="controls">
-								<input name="guitar.guitarspec.Model"  type="text" />
+								<input name="guitarspec.Model"  type="text" />
 							</div>
 						</div>
 						<div class="control-group">
@@ -49,13 +49,13 @@
 						<div class="control-group">
 							 <label class="control-label" for="inputPassword">前面板</label>
 							<div class="controls">
-								<input name="guitar.guitarspec.topwood"  type="text" />
+								<input name="guitarspec.topwood"  type="text" />
 							</div>
 						</div>
 						<div class="control-group">
 							 <label class="control-label" for="inputPassword">后面板</label>
 							<div class="controls">
-								<input name="guitar.guitarspec.backwood"  type="text" />
+								<input name="guitarspec.backwood"  type="text" />
 							</div>
 						</div>
 						<div class="control-group">
