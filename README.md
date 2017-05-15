@@ -12,4 +12,6 @@
   <img src="https://github.com/865713661/GuitarV2/blob/master/images/%E5%9B%BE%E7%89%872.png" alt="" width="739" height="384" />&nbsp;</p>
 <h2 align="justify" ><strong>没有结果：</strong><strong> </strong></h2>
 <p ><img src="https://github.com/865713661/GuitarV2/blob/master/images/%E5%9B%BE%E7%89%873.png" alt="" width="624" height="158" />&nbsp;</p>
+<h2 align="justify" ><strong>测试：</strong><strong> </strong></h2>
+<p ><img src="https://github.com/865713661/GuitarV2/blob/master/images/%E5%9B%BE%E7%89%874.png" alt="" width="624" height="158" />&nbsp;</p>
 </body>
